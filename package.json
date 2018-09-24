@@ -1,0 +1,22 @@
+{
+  "name": "nodemailer-js-adapter",
+  "version": "1.0.0",
+  "description": "Nodemailer Js Adapter",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Israel Arunah <arunahisraelg2010@gmail.com>",
+  "git": "https://github.com/IsraelGboluwaga/nodemailer-js-adapter.git",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.0.12",
+    "nodemailer": "^4.6.8",
+    "nodemon": "*",
+    "path": "*"
+  }
+}
