@@ -15,7 +15,7 @@
     "express": "*",
     "fs": "0.0.1-security",
     "handlebars": "^4.0.12",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.6.2",
     "nodemon": "*",
     "path": "*"
   }
